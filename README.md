@@ -1,5 +1,5 @@
 # leetcode
-List of completed challenges. Solutions to challenges above the Easy difficulty will also be pushed.
+List of completed challenges. Solutions to challenges above the Easy difficulty will also be pushed. Some challenges follow the roadmap from algomap.io.
 
 
 1. Two Sum
